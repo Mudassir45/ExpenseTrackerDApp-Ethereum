@@ -1,6 +1,6 @@
 # Expense Tracker DApp - Ethereum
 Expense Tracker DApp Keeps track of income and expenses on Ethereum Blockchain.
-This is a Ethereum version of the [REACT Expense Tracker App](https://github.com/Mudassir45/ExpenseTracker-React)
+This is a Ethereum version of the [React Expense Tracker App](https://github.com/Mudassir45/ExpenseTracker-React)
 
 ### Project Specifications:
 - This DApp is build using Advance React Hooks and Context API on React.
